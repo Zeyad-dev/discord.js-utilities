@@ -1,0 +1,20 @@
+{
+  "name": "discord.js-utilities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeyad-dev/discord.js-utilities.git"
+  },
+  "keywords": [],
+  "author": "Zeyad-dev <zeyad.amer155@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zeyad-dev/discord.js-utilities/issues"
+  },
+  "homepage": "https://github.com/Zeyad-dev/discord.js-utilities#readme"
+}
